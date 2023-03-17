@@ -1,0 +1,243 @@
+body{
+    background-color: black;
+    width:1440px;
+}
+.flex-container{
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    margin-top: 60px;
+    
+}
+.flex-items{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    
+}
+.big-pic{
+    width: 519px;
+    height: 640px;
+    padding-right: 100px;
+    margin-right: 100px;
+    float: right;
+    margin-top: 213px;
+}
+h3{
+    margin-top: 374px;
+    margin-left: 100px;
+    margin-right: 1030px;
+}
+h1{
+    padding-top: 20px;
+    margin-left: 100px;
+    margin-right: 785px;
+}
+.first-gist{
+    margin-left: 100px;
+    line-height: 24px;
+}
+.first{
+    background-color: white;
+    font-color: black;
+    width: 184px;
+    height: 48px;
+    margin-left: 100px;
+    border-radius: 20px;
+}
+.gettoknow{
+    margin-left: 585px;
+    margin-top: 500px;
+    width: 271px;
+    height: 28px;
+    font-size: 36px;
+}
+.small-pic{
+    width:348px;
+    height: 429px;
+    padding-left: 80px;
+    margin-left: 80px;
+    float: left;
+    padding-top: 80px;
+}
+.second-gist{
+    padding-top: 121px;
+    float: right;
+    width: 608px;
+    height: 252px;
+    padding-right: 80px;
+    margin-right: 80px;
+    line-height: 24px;
+}
+.projects{
+    margin-left: 668px;
+    width: 141px;
+    height: 28px;
+    font-size: 36px;
+    margin-top: 800px;
+}
+.first-layer{
+    display:flex;
+    justify-content: space-around;
+}
+.pic-one{
+    margin-left: 100px;
+    width: 379px;
+    height: 379px;
+    border-radius: 20px;
+    padding-top: 80px;
+}
+.tiktok{
+    margin-left: 100px;
+}
+.first-box-contents{
+    display: flex;
+    justify-content: space-around;
+    width: 275px;
+    margin-left: 100px;
+}
+.html{
+    border: 1px solid white;
+    width:52px;
+    height: 22px;
+    border-radius: 10px;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}
+.css{
+    border: 1px solid white;
+    width:52px;
+    height: 22px;
+    border-radius: 10px;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}
+.java{
+    border: 1px solid white;
+    width:72px;
+    height: 22px;
+    border-radius: 10px;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}
+.pic-two{
+    width:379px;
+    height: 379px;
+    padding-left: 10px;
+    border-radius: 20px;
+    padding-top: 80px;
+}
+.fintech{
+    margin-left: 50px;
+}
+.second-box-contents{
+    display: flex;
+    justify-content: space-around;
+    width: 175px;
+    margin-left: 30px;
+    
+}
+.pic-three{
+    width: 379px;
+    height: 379px;
+    padding-left: 10px;
+    border-radius: 20px;
+    padding-top: 80px;
+    margin-right: 100px;
+}
+.ecommerce{
+    margin-left: 30px;
+}
+
+.third-box-contents{
+    display: flex;
+    justify-content: space-around;
+    width: 275px;
+}
+.second-layer{
+    display:flex;
+    margin-left: 20px;
+}
+.pic-four{
+    margin-left: 100px;
+    width: 379px;
+    height: 379px;
+    border-radius: 20px;
+    padding-top: 80px;
+}
+.fourth-box-contents{
+    display: flex;
+    justify-content: space-around;
+    width: 275px;
+    margin-left: 100px;
+}
+.pic-five{
+    width:379px;
+    height: 379px;
+    padding-left: 60px;
+    border-radius: 20px;
+    padding-top: 80px;
+}
+.fifth-box-contents{
+    display: flex;
+    justify-content: space-around;
+    width: 175px;
+    margin-left: 30px;
+    padding-left: 40px;
+}
+h4{
+    text-align: center;
+    padding-top: 100px;
+}
+.contact{
+    margin-left: 655px;
+    width: 211px;
+    height: 28px;
+    font-size: 36px;
+}
+h2{
+    text-align: center;
+}
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+}
+.femi{
+    margin-left: 100px;
+    padding-top:200px;
+}
+.icons{
+    padding-top: 200px;
+    margin-right:100px;
+   
+}.insta{
+    margin-right: 80px;
+}
+.linkedin{
+    margin-right: 80px;
+}
+.github{
+    margin-right:80px;
+}
+
+.idc{
+    padding-top: 60px;
+    margin-left: 90px;
+}
+
+
+
+/*@media screen and (max-width: 835px){
+    .pic-one{
+        width:336px;
+        height:336px;
+        margin-left: 64px;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    
+}*/
