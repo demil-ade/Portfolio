@@ -9,6 +9,11 @@ body{
     margin-top: 60px;
     
 }
+.flex-item{
+    display: flex;
+    margin-left: 100px;
+    font-size: 32px;
+}
 .flex-items{
     display: flex;
     text-align: center;
@@ -123,6 +128,33 @@ h1{
     text-align: center;
     margin-top: 10px;
 }
+.html1{
+    border: 1px solid white;
+    width:52px;
+    height: 22px;
+    border-radius: 10px;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}
+.css1{
+    border: 1px solid white;
+    width:52px;
+    height: 22px;
+    border-radius: 10px;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}
+.java1{
+    border: 1px solid white;
+    width:72px;
+    height: 22px;
+    border-radius: 10px;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+}
 .pic-two{
     width:379px;
     height: 379px;
@@ -228,7 +260,104 @@ h2{
     margin-left: 90px;
 }
 
-
+@media screen and (max-width: 835px){
+    .pic-one{
+        width:336px;
+        height:336px;
+        margin-left: 64px;
+    }
+    .about {
+        margin-right: 60px;
+        margin-left: 210px;
+    }
+    .project {
+        margin-right: 60px;
+    }
+    .contact {
+        margin-right: 100px;
+    }
+    .big-pic {
+        float: right;
+        margin-right: 50px;
+    }
+    .first-gist {
+        width: 370px;
+        height: 112px;
+    }
+    .second-gist {
+        margin-left: 180px;
+        font-size: 16px;
+    }
+    .small-pic {
+        margin-left: 50px;
+        margin-right: 100px;
+        width: 340.59px;
+        height: 420px;
+    }
+    .second {
+        margin-right: -50px;
+        margin-left: -10px;
+        margin-top: 20px;
+    }
+    .first-layer {
+        display: flex;
+        margin-left: 70px;
+        padding: 5px;
+        gap: 1rem;
+    }
+    .second-layer{
+        display: flex;
+        margin-left: 70px;
+        padding: 5px;
+        gap: 1rem;
+    }
+    .pic-five {
+        display: none;
+    }
+    .pic-four {
+        display: none;
+    }
+    .tiktok {
+        display: none;
+    }
+    .html1{
+        display: none;
+    }
+    .css1 {
+        display: none;
+    }
+    .java1{
+        display:none;
+    }
+    .pic-one {
+        width: 336px;
+        height: 336px;
+    }
+    .pic-two {
+        width: 336px;
+        height: 354.62px;
+    }
+    .pic-three {
+        width: 366.47px;
+        height: 366.47px;
+        margin-top: 36.15px;
+    }
+    h4 {
+        margin-left: 0;
+    }
+    h2{
+        margin-left: 0;
+    }
+    .contact{
+        margin-left: 0;
+    }
+    .insta {
+        margin-left: 30px;
+    }
+    .twitter {
+        margin-right: 70px;
+    }
+}
 
 /*@media screen and (max-width: 835px){
     .pic-one{
